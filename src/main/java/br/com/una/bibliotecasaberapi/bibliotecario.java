@@ -1,5 +1,6 @@
 package br.com.una.bibliotecasaberapi;
 import jakarta.persistence.*;
+
 @Entity
 @Table(name = "tb_bibliotecario")
 public class bibliotecario {
